@@ -87,9 +87,13 @@ Para o teste SQL você deverá criar os seguintes SELECTs:
 
 1. Todos os ```Produtos``` (Código e Descrição), e ```Montadoras``` (Descrição) / ```Veiculos``` (Descrição) / ```ObsProdutoVeiculo``` correspondentes - Ordenação: Primeiro o veículo "MONZA", depois o "FOCUS" e o restante em ordem alfabética por Descrição de "Produto, Montadora, Veiculo".
 
-2. SELECT ```Produto``` (Código e Descrição), ```Veiculo``` (Descrição) - Apenas para veículos sem montadora.
+2. SELECT ```Produto``` (Código e Descrição) - Apenas para produtos com veículos.
 
-3. ```Montadoras``` (Descrição) e a quantidade de produtos para cada montadora.
+3. SELECT ```Produto``` (Código e Descrição), ```Veiculo``` (Descrição) - Apenas para veículos sem montadora.
+
+4. ```Montadoras``` (Descrição) e a quantidade de produtos para cada montadora.
+
+5. SELECT ```Produto``` (Descrição), ```Veiculo``` (Descrição, Descrição, Descrição, ...) - Todos os produtos, com suas aplicações concatenadas por ```Vírgula```, exemplo: ```Amortecedor Dianteiro, GOLF, POLO, CORSA```.<br />Obs.: Esta query é opcional!!!
 
 | Tabelas |
 | ------- |
