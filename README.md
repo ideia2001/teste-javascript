@@ -93,6 +93,8 @@ Para o teste SQL você deverá criar os seguintes SELECTs:
 
 4. ```Montadoras``` (Descrição) e a quantidade de produtos para cada montadora.
 
+5. SELECT ```Produto``` (Descrição), ```Veiculo``` (Descrição, Descrição, Descrição, ...) - Todos os produtos, com suas aplicações concatenadas por ```Vírgula```, exemplo: ```Amortecedor Dianteiro, GOLF, POLO, CORSA```.
+
 | Tabelas |
 | ------- |
 | PRODUTO |
