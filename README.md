@@ -1,4 +1,4 @@
-# Teste para candidatos à vaga mobile Ideia 2001
+# Teste para candidatos à vaga de Desenvolvedor(a) JavaScript Ideia 2001
 
 ![logo-ideia](https://user-images.githubusercontent.com/37415775/145830923-ac69c17b-636f-48ba-9cea-5fad314a2f7f.png)
 
@@ -7,7 +7,7 @@
 Clone este repositório, desenvolva seu código e envie a pasta do projeto compactada para o email vagas@ideia2001.com.br com o assunto "DEVMOBIDEIA". Enviar também currículo atualizado. Favor se identificar.
 
 ## O que Fazer
-O teste é dividido em duas partes. No teste [Javascript](#JavaScript) você deverá criar um pequeno projeto web que irá mostrar uma lista de dados no estilo mobile. Enquanto que no projeto [SQL](#SQL) você deverá extrair os dados das tabelas pré definidas.
+O teste é dividido em duas partes. No teste [Javascript](#JavaScript) você deverá criar um pequeno projeto web que irá mostrar uma lista de dados. Enquanto que no projeto [SQL](#SQL) você deverá extrair os dados das tabelas pré definidas.
 
 ## JavaScript
 
