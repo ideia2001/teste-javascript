@@ -1,6 +1,7 @@
 # Teste para candidatos à vaga mobile Ideia 2001
 
-![logo-ideia](https://user-images.githubusercontent.com/37415775/145828785-57965fbe-ca5a-4ad0-98a6-cd2991026820.png)
+![logo-ideia](https://user-images.githubusercontent.com/37415775/145829947-6a19d4b6-7ad5-42d5-ac39-f94e127a3f24.png)
+
 
 ## O que fará na empresa
 Atuará na empresa desenvolvendo aplicativos mobile para o ramo de Autopeças utilizando JavaScript, Cordova e SQL.
