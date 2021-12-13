@@ -19,8 +19,6 @@ O teste é dividido em duas partes. No teste [Javascript](#JavaScript) você dev
 
 - Utilizar a estrutura e quantidade de arquivos da forma que achar necessário.
 
-- Adicionar libs de sua preferência para as tarefas.
-
 - Utilizar pré-processadores css.
 
 - Minificar arquivos (envie também os arquivos não minificados).
