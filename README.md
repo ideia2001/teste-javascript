@@ -1,6 +1,6 @@
 # Teste para candidatos à vaga mobile Ideia 2001
 
-![logo-ideia](https://user-images.githubusercontent.com/37415775/145829947-6a19d4b6-7ad5-42d5-ac39-f94e127a3f24.png)
+![logo-ideia](https://user-images.githubusercontent.com/37415775/145830923-ac69c17b-636f-48ba-9cea-5fad314a2f7f.png)
 
 
 ## O que fará na empresa
