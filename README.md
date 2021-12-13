@@ -4,7 +4,7 @@
 
 
 ## Como fazer o teste
-Clone este repositório, desenvolva seu código e envie a pasta do projeto compactada para o email vagas@ideia2001.com.br com o assunto "DEVMOBIDEIA". Enviar também currículo atualizado. Favor se identificar.
+Clone este repositório, desenvolva seu código e envie a pasta do projeto compactada para o email vagas@ideia2001.com.br com o assunto "DEVJSIDEIA". Enviar também currículo atualizado. Favor se identificar.
 
 ## O que Fazer
 O teste é dividido em duas partes. No teste [Javascript](#JavaScript) você deverá criar um pequeno projeto web que irá mostrar uma lista de dados. Enquanto que no projeto [SQL](#SQL) você deverá extrair os dados das tabelas pré definidas.
