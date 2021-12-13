@@ -1,9 +1,7 @@
 # Teste para candidatos à vaga mobile Ideia 2001
 
-![logo](https://user-images.githubusercontent.com/13858601/49169002-eff2c280-f31f-11e8-810b-1ee26c850718.png)
+![logo-ideia](https://user-images.githubusercontent.com/37415775/145830923-ac69c17b-636f-48ba-9cea-5fad314a2f7f.png)
 
-## O que fará na empresa
-Atuará na empresa desenvolvendo aplicativos mobile para o ramo de Auto Peças utilizando JavaScript, Cordova e SQL.
 
 ## Como fazer o teste
 Clone este repositório, desenvolva seu código e envie a pasta do projeto compactada para o email vagas@ideia2001.com.br com o assunto "DEVMOBIDEIA". Enviar também currículo atualizado. Favor se identificar.
